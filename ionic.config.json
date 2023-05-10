@@ -1,0 +1,7 @@
+{
+  "name": "lytter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
